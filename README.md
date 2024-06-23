@@ -21,19 +21,19 @@ To reproduce the results,
 
 1.put the data "images" at same level as"task1.ipynb" and "task2.ipynb"
 
--images
+- images
 
-  -nnxx
+--- nnxx
 
-    -nnxxx_yyy.jepg 
+----- nnxxx_yyy.jepg 
     
-    -...
+----- ...
 
--...
+--- ...
    
--task1.ipynb
+- task1.ipynb
   
--task2.ipynb
+- task2.ipynb
    
 
 2.open the Jupyter Notebook and execute it with "restart and run all". 
